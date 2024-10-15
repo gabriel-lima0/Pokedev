@@ -1,0 +1,6 @@
+/* LIMITE PARA ESSA TELA */
+@media (max-width: 750px) {
+    body {
+        background-image: none;
+    }
+}
