@@ -1,4 +1,4 @@
-// JavaScript - modific
+// JavaScript
 
 const listaSelecaoPokedevs = document.querySelectorAll(".pokedev");
 
