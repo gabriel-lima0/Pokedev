@@ -1,4 +1,4 @@
-/* LIMITE PARA ESSA TELA */
+/* LIMITE PARA TELAs - RESPONSIBILIDADE */
 @media (max-width: 750px) {
     .pokedevs{
         flex-direction: column;
@@ -21,9 +21,9 @@
 
     .listagem{
         max-width: 360px;
-    }
+    };
 
-    ;.listagem .pokedevs {
+    .listagem .pokedevs {
         width: 45%;
         border-bottom-left-radius: 0;
         border-bottom-right-radius: 0;
