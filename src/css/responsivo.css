@@ -13,7 +13,7 @@
     .cartao-pokedev .coartao-informacoes{
         padding: 60px 30px 30px;
         margin-top: -50px
-    };
+    }
 
     .cartao-pokedev .coartao-informacoes h3{
         font-size: 16px;
@@ -21,9 +21,9 @@
 
     .listagem{
         max-width: 360px;
-    };
+    }
 
-    .listagem .pokedevs {
+    .listagem .pokedev {
         width: 45%;
         border-bottom-left-radius: 0;
         border-bottom-right-radius: 0;
